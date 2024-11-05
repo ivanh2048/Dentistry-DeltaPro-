@@ -1,7 +1,7 @@
 # Stomatologia DentaPro
 
 # Project Overview
-Stomatologia DentaPro is a dental management system designed to streamline and improve the workflow of dental clinics. This project provides tools for managing patient information, appointment scheduling, and database operations in a secure and efficient manner. It was developed in 2023 using C# and focuses on ease of use for both dental professionals and administrative staff.
+Stomatologia DentaPro is a dental management system designed to streamline and improve the workflow of dental clinics. This project provides tools for managing patient information, appointment scheduling, and database operations in a secure and efficient manner. It was developed in 2024 using C# and focuses on ease of use for both dental professionals and administrative staff.
 
 # Features
 Patient Management: Efficient storage and retrieval of patient records.
