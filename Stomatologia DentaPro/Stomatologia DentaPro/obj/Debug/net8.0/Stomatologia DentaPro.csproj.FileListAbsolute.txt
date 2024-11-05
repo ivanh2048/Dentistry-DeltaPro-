@@ -1,0 +1,19 @@
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Stomatologia DentaPro.exe
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Stomatologia DentaPro.deps.json
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Stomatologia DentaPro.runtimeconfig.json
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Stomatologia DentaPro.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Stomatologia DentaPro.pdb
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\bin\Debug\net8.0\Npgsql.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.csproj.AssemblyReference.cache
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.AssemblyInfoInputs.cache
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.AssemblyInfo.cs
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.csproj.CoreCompileInputs.cache
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.csproj.CopyComplete
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\refint\Stomatologia DentaPro.dll
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.pdb
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\Stomatologia DentaPro.genruntimeconfig.cache
+C:\Users\IvanHrabovskyi\source\repos\Stomatologia DentaPro\Stomatologia DentaPro\obj\Debug\net8.0\ref\Stomatologia DentaPro.dll

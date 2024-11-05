@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "flZj3YA5GRz7V9WVnECKwoyvyISgNXi30vgF6aDiVGjvJpmG267cV1sugfgVjRqU5zbBW466FDEcfPDbz6dwhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IvanHrabovskyi\\source\\repos\\Stomatologia DentaPro\\Stomatologia DentaPro\\Stomatologia DentaPro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IvanHrabovskyi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\IvanHrabovskyi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\IvanHrabovskyi\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
